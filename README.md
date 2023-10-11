@@ -1,2 +1,2 @@
 # CV
-My CV
+Hello, I'm Yash Bochiwal, and this is my personal website. I've showcased my journey here, complete with a professional image and brief introduction. My skills in web development, C/C++, and machine learning are outlined. I've also detailed my internship experiences and proficiency levels. If you'd like to learn more about my hobbies or get in touch with me, there are links for that too. This website offers a clean and organized presentation of my qualifications and interests. Explore and get to know me better!
